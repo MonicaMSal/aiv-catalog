@@ -366,6 +366,7 @@ writeFileSync(join(DIST_DIR, 'sitemap.xml'), sitemapXml());
 writeFileSync(join(DIST_DIR, 'robots.txt'), robotsTxt());
 writeFileSync(join(DIST_DIR, 'assets', 'style.css'), CSS);
 writeFileSync(join(DIST_DIR, '.nojekyll'), '');
+writeFileSync(join(DIST_DIR, 'CNAME'), 'aiv.monicamelosales.com.br\n');
 
 for (const ficha of fichas) {
   writeFileSync(join(DIST_DIR, 'conceitos', `${ficha.slug}.html`), fichaPageHtml(ficha));
