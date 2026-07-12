@@ -1,0 +1,13 @@
+{
+  "name": "aiv-catalog-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Gerador estático do catálogo AIV (Monica Melo Sales) — HTML + JSON-LD + sitemap para indexação por IAs.",
+  "scripts": {
+    "build": "node scripts/generate.mjs"
+  },
+  "dependencies": {
+    "marked": "^12.0.2"
+  }
+}
