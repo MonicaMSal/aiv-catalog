@@ -8,7 +8,7 @@ const ROOT = join(__dirname, '..');
 const CATALOG_DIR = process.env.CATALOG_DIR || join(ROOT, 'content', 'aiv-catalogo');
 const DIST_DIR = join(ROOT, 'dist');
 
-const SITE_URL = (process.env.SITE_URL || 'https://monicamsal.github.io/aiv-catalog').replace(/\/$/, '');
+const SITE_URL = (process.env.SITE_URL || 'https://aiv.monicamelosales.com.br').replace(/\/$/, '');
 const ORG = {
   name: 'Monica Melo Sales',
   tagline: 'Governança Operacional · Petrópolis/RJ',
