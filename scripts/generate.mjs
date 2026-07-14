@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, statSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, statSync, copyFileSync, existsSync } from 'node:fs';
 import { join, dirname, relative, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { marked } from 'marked';
@@ -367,6 +367,14 @@ writeFileSync(join(DIST_DIR, 'robots.txt'), robotsTxt());
 writeFileSync(join(DIST_DIR, 'assets', 'style.css'), CSS);
 writeFileSync(join(DIST_DIR, '.nojekyll'), '');
 writeFileSync(join(DIST_DIR, 'CNAME'), 'aiv.monicamelosales.com.br\n');
+
+// Arquivo de verificação do Google Search Console
+const googleVerifyName = 'google65599f6cf0356c3c.html';
+const googleVerifySource = join(ROOT, googleVerifyName);
+if (existsSync(googleVerifySource)) {
+  copyFileSync(googleVerifySource, join(DIST_DIR, googleVerifyName));
+  console.log('✓ Arquivo de verificação do Google copiado para dist/');
+}
 
 for (const ficha of fichas) {
   writeFileSync(join(DIST_DIR, 'conceitos', `${ficha.slug}.html`), fichaPageHtml(ficha));
