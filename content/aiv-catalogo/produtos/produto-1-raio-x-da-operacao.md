@@ -28,4 +28,4 @@ atualizado_em: 2026-07-11
 1. `tarefas/produto-1-raio-x.md` (2026) — prompt do executor v2.
 2. `ledger.md`, S4.1, S4.2, S4.3 (2026) — decisões: diagnóstico pago, projeto único, presencial.
 
-**Relacionados:** [[produto-2-blindagem-operacional-2027]] · [[../conceitos/decisao-de-regime]] · [[../faq/faq-geral-clinicas-estetica]]
+**Relacionados:** [[produto-2-blindagem-operacional-2027]] · [[../conceitos/decisao-de-regime]] · [[../faq/faq-raio-x-e-pago]]

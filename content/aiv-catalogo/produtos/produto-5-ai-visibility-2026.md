@@ -37,7 +37,7 @@ atualizado_em: 2026-07-11
 - Clínicas sem site próprio (pré-requisito técnico).
 - Clínicas sem um decisor disponível para aprovar conteúdo dentro do prazo do projeto.
 
-**Onde este produto entra no ecossistema:** é a camada mais nova do fluxo Cerebro INEMA → OS Coach → ERPSb → AI Visibility 2026 (conhecimento → metodologia → ferramenta → visibilidade) — ver [[../../ecossistema|Ecossistema Monica Melo Sales]]. Faz parte do planejamento de Batch 2 (após o Batch 1 de prospecção de clínicas estar validado).
+**Onde este produto entra no ecossistema:** é a camada mais nova do fluxo Cerebro INEMA → OS Coach → ERPSb → AI Visibility 2026 (conhecimento → metodologia → ferramenta → visibilidade) — ver [[../metodologias/segundo-cerebro-digital|Segundo Cérebro Digital]], a metodologia central que estrutura essa camada. Faz parte do planejamento de Batch 2 (após o Batch 1 de prospecção de clínicas estar validado).
 
 **Fontes:**
 1. `Downloads/Qwen_markdown_20260711_tc1oaagth.md` (2026-07-11) — desenho comercial completo do produto.
