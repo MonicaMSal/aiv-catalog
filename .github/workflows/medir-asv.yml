@@ -1,0 +1,22 @@
+name: Medir AI Share of Voice
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Toda segunda-feira às 09:00 UTC (06:00 em Petrópolis)
+    - cron: "0 9 * * 1"
+
+jobs:
+  medir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run measure-asv
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}

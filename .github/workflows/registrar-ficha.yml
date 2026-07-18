@@ -1,0 +1,60 @@
+name: Registrar nova ficha no Supabase
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/aiv-catalogo/**/*.md"
+
+jobs:
+  registrar:
+    name: Registrar fichas publicadas neste push
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'nova-ficha:')
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Registrar cada ficha do commit no Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          COMMIT_MSG: ${{ github.event.head_commit.message }}
+        run: |
+          set -e
+          # Convenção: uma linha "nova-ficha: <tipo> <slug>" por ficha, no assunto
+          # e/ou no corpo do commit — suporta commit de 1 ficha ou de uma categoria
+          # inteira (várias linhas). tipo é um de:
+          # conceito | metodologia | ferramenta | caso-de-uso | produto | faq
+          MATCHES=$(echo "$COMMIT_MSG" | grep -oE 'nova-ficha:[[:space:]]*[a-z-]+[[:space:]]+[a-z0-9-]+' || true)
+
+          if [ -z "$MATCHES" ]; then
+            echo "::error::nenhuma linha 'nova-ficha: <tipo> <slug>' encontrada na mensagem do commit"
+            exit 1
+          fi
+
+          echo "$MATCHES" | while IFS= read -r LINHA; do
+            DADOS=$(echo "$LINHA" | sed -n 's/.*nova-ficha:[[:space:]]*\(.*\)/\1/p' | xargs)
+            TIPO=$(echo "$DADOS" | cut -d' ' -f1)
+            SLUG=$(echo "$DADOS" | cut -d' ' -f2-)
+
+            # generate.mjs achata todas as URLs de ficha sob /conceitos/,
+            # independente da categoria de origem — não é bug, é o layout real do site.
+            URL="https://aiv.monicamelosales.com.br/conceitos/${SLUG}.html"
+            TITULO=$(echo "$SLUG" | sed 's/-/ /g' | sed -E 's/(^| )([a-z])/\1\U\2/g')
+
+            echo "Registrando: tipo=$TIPO slug=$SLUG"
+            curl -sf -X POST "${SUPABASE_URL}/rest/v1/catalogo_fichas?on_conflict=slug" \
+              -H "apikey: ${SUPABASE_SERVICE_ROLE_KEY}" \
+              -H "Authorization: Bearer ${SUPABASE_SERVICE_ROLE_KEY}" \
+              -H "Content-Type: application/json" \
+              -H "Prefer: return=minimal,resolution=merge-duplicates" \
+              -d "{
+                \"titulo\": \"${TITULO}\",
+                \"tipo\": \"${TIPO}\",
+                \"slug\": \"${SLUG}\",
+                \"url\": \"${URL}\",
+                \"data_publicacao\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
+              }"
+            echo "OK: ${TITULO}"
+          done
