@@ -29,11 +29,14 @@ const PROMPTS_DE_TESTE = [
 ];
 
 const MODELOS = [
-  { id: "openai/gpt-4o", nome: "ChatGPT" },
-  { id: "anthropic/claude-3.5-sonnet", nome: "Claude" },
-  { id: "google/gemini-2.0-flash-exp:free", nome: "Gemini" },
+  { id: "openai/gpt-5-chat", nome: "ChatGPT" },
+  { id: "anthropic/claude-sonnet-5", nome: "Claude" },
+  { id: "google/gemini-3.5-flash", nome: "Gemini" },
   { id: "perplexity/sonar", nome: "Perplexity" },
 ];
+// IDs verificados em https://openrouter.ai/api/v1/models em 2026-07-18 —
+// os dois anteriores (claude-3.5-sonnet, gemini-2.0-flash-exp:free) foram
+// descontinuados pela OpenRouter (404 "No endpoints found") na 1ª execução real.
 
 function normalizarTexto(texto: string): string {
   return texto.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
