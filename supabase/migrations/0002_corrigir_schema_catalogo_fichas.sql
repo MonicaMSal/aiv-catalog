@@ -4,6 +4,7 @@
 -- vazia (0 linhas) no momento desta correção — seguro alterar sem migração de dados.
 
 alter table catalogo_fichas rename column vertical to tipo;
+alter table catalogo_fichas drop constraint if exists catalogo_fichas_vertical_check;
 alter table catalogo_fichas add column if not exists slug text;
 alter table catalogo_fichas alter column slug set not null;
 alter table catalogo_fichas add constraint catalogo_fichas_slug_key unique (slug);

@@ -10,26 +10,31 @@ jobs:
   registrar:
     name: Registrar fichas publicadas neste push
     runs-on: ubuntu-latest
-    if: contains(github.event.head_commit.message, 'nova-ficha:')
+    # `on: push` roda 1x por push, não 1x por commit — por isso o gate e a
+    # extração olham TODOS os commits do push (github.event.commits), não só
+    # o head_commit. Um push com N commits, onde só alguns têm "nova-ficha:",
+    # tem que registrar as fichas desses commits mesmo que o commit mais
+    # recente do push seja, por exemplo, um "fix:" sem essa marcação.
+    if: contains(toJSON(github.event.commits), 'nova-ficha:')
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Registrar cada ficha do commit no Supabase
+      - name: Registrar cada ficha de cada commit do push
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-          COMMIT_MSG: ${{ github.event.head_commit.message }}
+          COMMITS_JSON: ${{ toJSON(github.event.commits) }}
         run: |
           set -e
-          # Convenção: uma linha "nova-ficha: <tipo> <slug>" por ficha, no assunto
-          # e/ou no corpo do commit — suporta commit de 1 ficha ou de uma categoria
-          # inteira (várias linhas). tipo é um de:
+          # Convenção: uma linha "nova-ficha: <tipo> <slug>" por ficha, em
+          # qualquer commit do push. tipo é um de:
           # conceito | metodologia | ferramenta | caso-de-uso | produto | faq
-          MATCHES=$(echo "$COMMIT_MSG" | grep -oE 'nova-ficha:[[:space:]]*[a-z-]+[[:space:]]+[a-z0-9-]+' || true)
+          MESSAGES=$(node -e "
+            const commits = JSON.parse(process.env.COMMITS_JSON);
+            for (const c of commits) console.log(c.message);
+          ")
+          MATCHES=$(echo "$MESSAGES" | grep -oE 'nova-ficha:[[:space:]]*[a-z-]+[[:space:]]+[a-z0-9-]+' | sort -u || true)
 
           if [ -z "$MATCHES" ]; then
-            echo "::error::nenhuma linha 'nova-ficha: <tipo> <slug>' encontrada na mensagem do commit"
+            echo "::error::nenhuma linha 'nova-ficha: <tipo> <slug>' encontrada nos commits deste push"
             exit 1
           fi
 
