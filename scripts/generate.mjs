@@ -187,7 +187,7 @@ ${breadcrumb ? `<nav class="breadcrumb">${breadcrumb}</nav>` : ''}
 ${bodyHtml}
 </main>
 <footer class="site-footer">
-  <p>© ${new Date().getFullYear()} Monica Melo Sales — Catálogo AIV.</p>
+  <p>© ${new Date().getFullYear()} Monica Melo Sales — Catálogo AIV. <a href="https://monicamelosales.com.br">monicamelosales.com.br</a></p>
 </footer>
 </body>
 </html>
