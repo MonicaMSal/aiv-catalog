@@ -1,37 +1,38 @@
 ---
 slug: calendario-2026-2027
 tipo: conceito
-titulo: "Calendário 2026-2027: as datas reais da Reforma Tributária para prestadores de serviço"
-resumo: "A transição da Reforma Tributária não acontece toda em 1º de janeiro de 2027 — já começou em janeiro de 2026 (NFS-e Nacional, teste de 1%), tem janela de decisão vinculante em setembro de 2026, e o split payment só chega, gradualmente, no 2º semestre de 2027."
+titulo: "Calendário 2026-2027: prazos encerrados, cancelamento até dezembro e próxima janela em março"
+resumo: "A transição da Reforma Tributária começou em 2026 com a fase de testes e adaptação documental. Para 2027, a opção pelo Simples Nacional ocorreu de 1º/09 a 15/10/2026; a opção pelo regime regular de IBS/CBS para janeiro a junho de 2027 ocorreu de 1º/09 a 30/10/2026. O cancelamento das opções pode ser solicitado de 03/11 a 20/12/2026. A próxima janela para opção pelo regime regular de IBS/CBS, com efeitos de julho a dezembro de 2027, está prevista para 1º a 31/03/2027; o cancelamento dessa opção poderá ser feito até 31/05/2027. Em 2026, o Split Payment está em testes técnicos controlados, sem retenção definitiva em operações reais."
 status: publicado
-fonte: "Decreto nº 12.955/2026 art. 33; Decreto Municipal nº 334/2025 (Petrópolis); Resolução CGSN nº 186/2026; Ministério da Fazenda"
+fonte: "Receita Federal (set/2026); LC 214/2025; LC 238/2026; Decreto Municipal nº 334/2025 (Petrópolis)"
 confianca: alta
-atualizado_em: 2026-07-12
+atualizado_em: 2026-11-23
 ---
 
-**A urgência real da Reforma Tributária para uma clínica de estética é setembro de 2026 — não "2027".** Setembro é a única data com decisão vinculante e prazo fechado; o resto da transição é gradual e já começou.
+**Os prazos de opção para 2027 já foram encerrados; o que está aberto agora é o cancelamento (até 20/12/2026), e a próxima janela para o regime regular de IBS/CBS está prevista para março de 2027.** A transição da Reforma Tributária é gradual e já começou em 2026.
 
-**Linha do tempo verificada:**
+**Linha do tempo (revisada em 23/11/2026):**
 
 | Quando | O que acontece | Quem sente |
 |---|---|---|
 | **jan/2026** (já vigente) | NFS-e de Petrópolis passa a ser emitida exclusivamente pelo Emissor Nacional | Todos os prestadores da cidade |
-| **2026 (ano todo)** | Fase de teste do IBS/CBS: alíquota simbólica de 1% (0,9% CBS + 0,1% IBS); split opcional | Regime regular; Simples puro fora |
-| **1º–30/set/2026** | Janela oficial de decisão de regime (Resolução CGSN nº 186) | Todas as empresas do Simples |
-| **nov/2026** | Último mês para cancelar a opção feita em setembro | Quem optou em setembro |
-| **1º/jan/2027** | Efeitos da opção de setembro começam a valer; MEI passa a emitir nota em toda venda | Optantes do regime regular + todos os MEI |
-| **2º semestre/2027** | Split payment, Etapa 1: **facultativa, só operações B2B**, por boleto/Pix/TED/TEF — cartões só na etapa seguinte (Decreto nº 12.955/2026, art. 33) | Só quem estiver no regime regular de IBS/CBS |
+| **2026 (ano todo)** | Fase de testes e adaptação documental | Todas as empresas |
+| **1º/09 a 15/10/2026** | Opção pelo Simples Nacional para 2027 (**encerrada**) | Empresas que querem ingressar no Simples |
+| **1º/09 a 30/10/2026** | Opção pelo regime regular de IBS/CBS para jan–jun/2027 (**encerrada**); regularização de pendências para ingresso no Simples até 30/10/2026 | Empresas do Simples |
+| **15/10/2026** | Início dos testes técnicos do Split Payment, em ambiente controlado, sem impacto em operações reais ou consumidores | Plataforma pública e participantes dos testes |
+| **03/11 a 20/12/2026** | Período para cancelar as opções feitas (**em curso**) | Quem optou |
+| **1º/01/2027** | Começa o período de efeitos das opções para jan–jun/2027; vale o limite de R$ 110.000 do MEI no ano-calendário de 2027 | Optantes e MEI |
+| **1º a 31/03/2027** (prevista) | Próxima janela para opção pelo regime regular de IBS/CBS, com efeitos de julho a dezembro de 2027; cancelamento até 31/05/2027 | Empresas do Simples |
 
-**Erro comum a corrigir:** a ideia de que "janeiro de 2027" é quando o split payment entra em vigor é falsa — a implantação é gradual, a partir do 2º semestre de 2027, e a Etapa 1 é facultativa, restrita a B2B e sem cartões (Decreto nº 12.955/2026, art. 33). Também não existe retenção alguma em 2026: é só fase de teste, com alíquota simbólica.
+**Sobre o Split Payment:** em 2026 há apenas testes técnicos controlados. A implantação operacional será gradual e seguirá a regulamentação específica; datas, meios de pagamento, segmentos e obrigatoriedade só devem ser considerados quando constarem de norma. Não há retenção generalizada em 2026.
 
-**Como isso deve orientar uma clínica:** o fato presente (formalização de nota, desde jan/2026) e o fato com prazo fechado (decisão de regime, em setembro/2026) são os dois pontos que merecem ação agora. O split payment, para a maioria das clínicas de estética (Simples puro), é irrelevante — e mesmo para quem migrar, só chega mais de um ano depois.
+**Como isso deve orientar uma clínica:** o fato presente (emissão de nota pelo Emissor Nacional, desde jan/2026) e o prazo de cancelamento (até 20/12/2026) merecem ação agora. Para quem não optou, o trabalho útil até março de 2027 é preparação operacional e simulação do impacto, para decidir com dados na próxima janela.
 
 **Fontes:**
-1. `ledger.md`, S5.4 e S1.2 (2026).
-2. `ledger.md`, Missão 4, S7.1 (2026) — Resolução CGSN nº 186.
-3. [Decreto nº 12.955/2026, art. 33](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12955.htm) — etapas do split payment (texto oficial conferido em 2026-07-12).
-4. Decreto Municipal nº 334/2025 — DO de Petrópolis nº 7310, 23/12/2025 (PDF em `../../aiv-f0/fontes/decreto-334-2025-petropolis.pdf`).
-5. Documentação técnica da Plataforma Pública do Split Payment — Ministério da Fazenda/Receita Federal (jun/2026).
-6. Guia de migração para a NFS-e Nacional — Prefeitura de Petrópolis (2026).
+1. [Receita Federal — Simples Nacional 2027: novos prazos](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade/)
+2. [Receita Federal — testes da Plataforma Pública do Split Payment](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/comunicado-5/)
+3. [Lei Complementar 238/2026](https://planalto.gov.br/ccivil_03/leis/lcp/lcp238.htm)
+4. [Lei Complementar 214/2025, texto compilado](https://planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm)
+5. Decreto Municipal nº 334/2025 — DO de Petrópolis nº 7310, 23/12/2025.
 
 **Relacionados:** [[reforma-tributaria-2027]] · [[decisao-de-regime]] · [[split-payment]] · [[nfse-nacional-petropolis]] · [[teto-mei-81k]]

@@ -6,7 +6,7 @@ resumo: "A NFS-e Nacional exige que cada serviço seja enquadrado no item corret
 status: publicado
 fonte: "conceitos/nfse-nacional-petropolis.md; casos-de-uso/clinicas-massoterapia.md"
 confianca: alta
-atualizado_em: 2026-07-17
+atualizado_em: 2026-11-23
 ---
 
 **O enquadramento fiscal correto de um serviço não é o nome dele no cardápio da clínica — é a combinação entre o item da LC 116 e o código de tributação nacional (cClassTrib) usados na emissão da NFS-e.** Desde que Petrópolis passou a emitir exclusivamente pelo Emissor Nacional (jan/2026), essa combinação é obrigatória em toda nota — e é ela que determina a alíquota de ISS e, na Reforma, a de IBS/CBS.
@@ -16,7 +16,7 @@ atualizado_em: 2026-07-17
 1. **Item da LC 116 (Lei Complementar 116/2003):** lista nacional de serviços tributáveis por ISS. Estética pura ("esteticistas, tratamento de pele, depilação e congêneres") cai no **item 6.02**. Serviços médicos regulamentados (dermatologia, cirurgia) caem em itens diferentes, ligados a saúde.
 2. **Código de tributação nacional (cClassTrib):** tabela publicada pela Receita Federal, em correlação com a LC 116 e a NBS (Nomenclatura Brasileira de Serviços), usada na emissão da NFS-e Nacional. É essa correlação — não só o item da LC 116 isoladamente — que o sistema do Emissor Nacional valida nota a nota. A transição completa dessa tabela está prevista até 2032.
 
-**Por que isso importa mais na Reforma do que importava antes:** o mesmo enquadramento que hoje define a alíquota de ISS vai, no regime novo, também apontar se o serviço tem direito à redução de 60% de [[reducao-60-saude|IBS/CBS para saúde]] ou cai na alíquota cheia de estética. Um enquadramento errado hoje (item ou cClassTrib incorretos) tende a se repetir automaticamente depois de 2027, porque o sistema herda a mesma lógica de classificação.
+**Por que isso importa mais na Reforma do que importava antes:** o mesmo enquadramento que hoje define a alíquota de ISS vai, no regime novo, também ser conferido contra a lista de serviços de saúde com redução de 60% de [[reducao-60-saude|IBS/CBS]] (Anexo III da LC 214/2025); o CNAE ou o nome do serviço, isoladamente, não garantem o benefício. Um enquadramento errado hoje (item ou cClassTrib incorretos) tende a se repetir automaticamente depois de 2027, porque o sistema herda a mesma lógica de classificação.
 
 **Onde isso pega mais forte (clínicas na fronteira saúde×estética):**
 

@@ -6,14 +6,14 @@ resumo: "Unidades de franquia (ex.: Espaçolaser, Pello Menos, Maislaser) não s
 status: publicado
 fonte: "cerebro-prospeccao/wiki/nichos/depilacao.md; ledger.md S1.3"
 confianca: alta
-atualizado_em: 2026-07-17
+atualizado_em: 2026-11-23
 ---
 
 **Uma unidade de franquia não decide, sozinha, se vai continuar no Simples ou migrar de regime, nem qual ERP vai usar — essas decisões são centralizadas na matriz.** Por isso franquias ficam fora do funil de prospecção direta de governança operacional e decisão de regime, mesmo quando aparecem no mapeamento de clínicas de um nicho.
 
 **O que isso significa na prática:**
 
-- A [[decisao-de-regime|decisão de regime]] de setembro de 2026 é tomada pela matriz da franquia, não pela unidade de Petrópolis — abordar o gerente local sobre esse tema não avança a venda.
+- A [[decisao-de-regime|decisão de regime]] de IBS/CBS (próxima janela prevista para março de 2027) é tomada pela matriz da franquia, não pela unidade de Petrópolis — abordar o gerente local sobre esse tema não avança a venda.
 - A automação de NFS-e (ex.: [[../ferramentas/erpsb|ERPSb]]) também não é decisão da ponta — franquias tendem a ter sistema próprio definido centralmente.
 - A [[../metodologias/os-coach|governança operacional (OS Coach)]] pressupõe autonomia da unidade para redesenhar processo e treinar equipe — algo que uma franquia não tem sem aval da matriz.
 

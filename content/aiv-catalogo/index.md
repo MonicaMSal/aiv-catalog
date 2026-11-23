@@ -2,7 +2,7 @@
 
 > Catálogo de fichas estruturadas para a metodologia [AI Visibility 2026](metodologias/ai-visibility-2026.md) (Produto 5). Cada ficha segue o formato: YAML de metadados (`slug`, `tipo`, `titulo`, `resumo`, `status`, `fonte`, `confianca`, `atualizado_em`) + corpo em markdown com **resposta direta no 1º parágrafo**, fontes citáveis e links `[[relacionados]]`.
 >
-> **Regra de conteúdo (herdada de `cerebro-prospeccao/cerebro-prospeccao/CLAUDE.md` e `ledger.md`):** nenhuma ficha usa fato tributário fora dos 6 fatos permitidos, nem cita "gratuito", nem aplica split payment a Simples/MEI. Toda ficha `status: publicado` tem fonte rastreável dentro deste repositório. Fichas `status: backlog` **não têm conteúdo ainda** — a listagem existe para rastrear o que falta e evitar preencher com conteúdo genérico só para bater número.
+> **Regra de conteúdo (herdada de `cerebro-prospeccao/cerebro-prospeccao/CLAUDE.md` e `ledger.md`):** nenhuma ficha usa fato tributário fora dos 6 fatos permitidos, nem cita "gratuito", nem afirma regra de split payment sem norma específica. Toda ficha `status: publicado` tem fonte rastreável dentro deste repositório. Fichas `status: backlog` **não têm conteúdo ainda** — a listagem existe para rastrear o que falta e evitar preencher com conteúdo genérico só para bater número.
 >
 > **Não altera:** `ledger.md` e as decisões travadas do wargame não foram tocados por este catálogo (ver nota no rodapé).
 

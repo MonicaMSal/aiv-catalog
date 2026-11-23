@@ -2,25 +2,24 @@
 slug: faq-janela-decisao-setembro
 tipo: faq
 titulo: "Dá para esperar a Reforma Tributária terminar para agir?"
-resumo: "Não. A decisão de regime tem janela fixa: 1º a 30 de setembro de 2026 (Resolução CGSN nº 186, base legal Art. 517 da LC 214). Esperar a reforma 'terminar' significa perder essa janela — depois dela, a escolha já foi feita por omissão."
+resumo: "A janela de decisão para o primeiro semestre de 2027 já terminou: a opção pelo regime regular de IBS/CBS ocorreu de 1º/09 a 30/10/2026. O cancelamento pode ser solicitado até 20/12/2026. A próxima janela está prevista para 1º a 31/03/2027, com efeitos no segundo semestre. O planejamento operacional, a revisão de contratos, cadastros de fornecedores e classificação fiscal devem começar antes desse período."
 status: publicado
-fonte: "site-atualizado-2026.html; ledger.md S7.1"
+fonte: "Receita Federal (set/2026); conceitos/calendario-2026-2027.md"
 confianca: alta
-atualizado_em: 2026-07-11
+atualizado_em: 2026-11-23
 ---
 
-**Não é possível esperar a Reforma Tributária "terminar" para decidir — a decisão de regime tem uma janela fixa e curta: 1º a 30 de setembro de 2026.** Fora dessa janela, a escolha entre Simples puro e regime regular acontece por omissão, não por decisão informada.
+**Esperar "terminar" não é uma boa estratégia: a janela do primeiro semestre de 2027 já passou, e a próxima, prevista para 1º a 31/03/2027, exige preparação antes.** A opção pelo regime regular de IBS/CBS ocorreu de 1º/09 a 30/10/2026; quem não optou continua com IBS/CBS no DAS.
 
-**Por que "esperar" já é uma escolha:** quem não se manifestar dentro da janela de setembro simplesmente permanece no regime atual — o que pode ser a decisão certa para a maioria das clínicas de consumidor final, mas precisa ser uma escolha avaliada, não um acaso de calendário.
+**O que vem agora:**
 
-**O que vem depois da janela:**
+- **Até 20/12/2026:** o cancelamento das opções pode ser solicitado (período de 03/11 a 20/12/2026).
+- **1º a 31/03/2027 (prevista):** próxima janela de opção pelo regime regular de IBS/CBS, com efeitos de julho a dezembro de 2027; o cancelamento dessa opção poderá ser feito até 31/05/2027.
 
-- Quem optar em setembro pode cancelar a opção até o último dia de novembro de 2026.
-- Os efeitos da opção começam a valer em 1º de janeiro de 2027.
-- O restante da transição (split payment, por exemplo) é gradual e só chega, para quem migrou, no 2º semestre de 2027 — bem depois da janela de decisão.
+**O que fazer antes de março:** planejamento operacional, revisão de contratos, cadastros de fornecedores e classificação fiscal. A decisão deve considerar perfil de clientes, créditos, fornecedores, fluxo de caixa e custos de conformidade, e ser validada com o contador.
 
 **Fontes:**
-1. `site-atualizado-2026.html` — seção FAQ (2026).
-2. `ledger.md`, Missão 4, S7.1 (2026) — Resolução CGSN nº 186.
+1. [Receita Federal — Simples Nacional 2027: novos prazos](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade/)
+2. [[../conceitos/calendario-2026-2027]] (revisado em 2026-11-23).
 
 **Relacionados:** [[../conceitos/decisao-de-regime]] · [[../conceitos/calendario-2026-2027]]

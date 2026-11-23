@@ -1,23 +1,23 @@
 ---
 slug: clinicas-massoterapia
 tipo: caso-de-uso
-titulo: "Massoterapia e terapias corporais: quando o registro certo garante a redução de 60%"
-resumo: "Massoterapia, drenagem linfática, quiropraxia e massoterapia esportiva podem ter tese terapêutica defensável — o registro e o CNAE corretos são o que separa a redução de 60% na alíquota de IBS/CBS da alíquota cheia de um serviço lido como puramente estético."
+titulo: "Massoterapia e terapias corporais: como verificar a elegibilidade à redução de 60%"
+resumo: "Massoterapia, drenagem linfática, quiropraxia e massoterapia esportiva não recebem automaticamente a redução de 60%. O benefício depende de o serviço e sua classificação constarem do Anexo III da LC 214/2025 e de serem atendidas as condições legais. Registro profissional, CNAE ou descrição comercial, isoladamente, não garantem o enquadramento."
 status: publicado
 fonte: "cerebro-prospeccao/wiki/nichos/massoterapia.md"
 confianca: alta
-atualizado_em: 2026-07-11
+atualizado_em: 2026-11-23
 ---
 
 **Massoterapia e terapias corporais são, depois de harmonização facial, o nicho onde a fronteira saúde×estética é mais concreta — e o gancho honesto é o enquadramento, não o medo de fiscalização.**
 
 **Por que o caráter terapêutico é defensável aqui:**
 
-- Drenagem linfática, quiropraxia e massoterapia esportiva têm tese terapêutica real, especialmente quando associadas a indicação de saúde (recuperação pós-cirúrgica, tratamento ortopédico, reabilitação).
-- Acupuntura, quando presente na oferta, reforça ainda mais essa tese terapêutica.
-- O trabalho lido puramente como estético (relaxamento sem indicação terapêutica) tende à alíquota cheia — mesmo dentro da mesma clínica que também oferece serviços com tese terapêutica.
+- Drenagem linfática, quiropraxia e massoterapia esportiva podem ter caráter terapêutico, especialmente quando associadas a indicação de saúde, mas **não recebem automaticamente a redução de 60%**: o benefício depende de o serviço e sua classificação constarem do Anexo III da LC 214/2025 e de serem atendidas as condições legais.
+- Acupuntura, quando presente na oferta, deve ser verificada da mesma forma: o enquadramento depende da lista legal, não do nome do serviço.
+- O trabalho puramente estético (relaxamento sem indicação terapêutica) tende à alíquota cheia — mesmo dentro da mesma clínica que também oferece serviços de saúde.
 
-**O que define o enquadramento correto:** não é o nome do serviço no cardápio, é o registro/CNAE e a documentação do caráter terapêutico de cada procedimento — o mesmo princípio de segregação de receita que vale para dermatologia e harmonização facial (ver [[../conceitos/reducao-60-saude]]).
+**O que define o enquadramento correto:** o serviço efetivamente prestado, sua classificação e as condições legais — registro profissional, CNAE ou descrição comercial, isoladamente, não garantem o enquadramento (ver [[../conceitos/reducao-60-saude]]).
 
 **Cuidado com o tom da abordagem:** para este nicho especificamente, mensagens com gancho de "fiscalização" ou "risco de autuação" soam como medo genérico e destoam do argumento real, que é técnico (enquadramento) e não punitivo.
 

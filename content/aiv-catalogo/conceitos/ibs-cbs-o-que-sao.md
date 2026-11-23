@@ -2,14 +2,14 @@
 slug: ibs-cbs-o-que-sao
 tipo: conceito
 titulo: "O que são IBS e CBS, em linguagem de clínica"
-resumo: "IBS e CBS são os dois novos impostos que substituem PIS, COFINS, IPI, ICMS e ISS na Reforma Tributária 2027. Para a maioria das clínicas de estética optantes do Simples Nacional, eles não mudam a forma de recolher — o DAS continua único — mas mudam a decisão de regime que toda empresa do Simples precisa tomar em setembro de 2026."
+resumo: "IBS e CBS são os novos tributos sobre o consumo que substituirão gradualmente ICMS e ISS (IBS), e PIS/Cofins e IPI nos termos e exceções da transição (CBS e IPI). A substituição não ocorre integralmente em 1º de janeiro de 2027: 2026 é fase de teste e adaptação; 2027 marca o início da cobrança da CBS e da transição do IBS, conforme as regras legais. Empresas do Simples Nacional podem manter IBS/CBS no DAS ou, quando elegíveis, optar pelo regime regular para esses tributos, observados os períodos de opção."
 status: publicado
-fonte: "conceitos/reforma-tributaria-2027.md; conceitos/decisao-de-regime.md; Decreto nº 12.955/2026"
+fonte: "conceitos/reforma-tributaria-2027.md; conceitos/decisao-de-regime.md; LC 214/2025; LC 238/2026"
 confianca: alta
-atualizado_em: 2026-07-17
+atualizado_em: 2026-11-23
 ---
 
-**IBS (Imposto sobre Bens e Serviços) e CBS (Contribuição sobre Bens e Serviços) são os dois tributos novos que, juntos, substituem PIS, COFINS, IPI, ICMS e ISS a partir da Reforma Tributária 2027.** Para uma clínica de estética que hoje é Simples Nacional, o nome técnico importa menos do que uma coisa prática: enquanto ela ficar no Simples "puro", continua recolhendo tudo pelo DAS, guia única — IBS e CBS não criam uma conta nova para pagar por fora.
+**IBS (Imposto sobre Bens e Serviços) e CBS (Contribuição sobre Bens e Serviços) são os dois tributos novos sobre o consumo que, conforme o cronograma legal, substituem gradualmente ICMS e ISS (IBS) e PIS/Cofins e IPI nos termos e exceções da transição (CBS e IPI).** Para uma clínica de estética que hoje é Simples Nacional, o nome técnico importa menos do que uma coisa prática: enquanto ela ficar no Simples "puro", continua recolhendo tudo pelo DAS, guia única — IBS e CBS não criam uma conta nova para pagar por fora.
 
 **A diferença entre os dois:**
 
@@ -19,17 +19,17 @@ atualizado_em: 2026-07-17
 
 **O que muda de verdade para uma clínica de estética:**
 
-1. **Se for Simples puro:** nada na forma de recolher — o DAS continua sendo a guia única. O que muda é que a clínica precisa decidir, entre 1º e 30 de setembro de 2026, se mantém essa condição ou passa a apurar IBS/CBS "por fora" (ver [[decisao-de-regime]]).
-2. **Se migrar para o regime regular:** passa a apurar IBS/CBS separadamente, com direito a gerar crédito integral para clientes pessoa jurídica — e, só a partir do 2º semestre de 2027, sujeita ao [[split-payment]].
-3. **Serviços de saúde** têm redução de 60% na alíquota combinada de IBS/CBS; procedimentos puramente estéticos tendem à alíquota cheia (ver [[reducao-60-saude]]).
+1. **Se for Simples puro:** nada na forma de recolher — o DAS continua sendo a guia única. O que muda é que a clínica pode manter essa condição ou optar por apurar IBS/CBS pelo regime regular — a janela para o primeiro semestre de 2027 já terminou, e a próxima está prevista para 1º a 31/03/2027 (ver [[decisao-de-regime]]).
+2. **Se migrar para o regime regular:** passa a apurar IBS/CBS separadamente, com direito a gerar crédito integral para clientes pessoa jurídica — e sujeita às regras do [[split-payment]] conforme a regulamentação de implantação.
+3. **Serviços de saúde** relacionados no Anexo III da LC 214/2025 têm redução de 60% (art. 130); procedimentos puramente estéticos fora da lista não recebem o benefício automaticamente (ver [[reducao-60-saude]]).
 
-**Cronograma de transição:** 2026 é ano de teste, com alíquota simbólica de 1% (0,9% CBS + 0,1% IBS) e sem impacto real de caixa. A implantação plena é gradual — ver [[calendario-2026-2027]] para as datas exatas.
+**Cronograma de transição:** 2026 é fase de teste e adaptação; 2027 marca o início da cobrança da CBS e da transição do IBS, conforme as regras legais. A implantação plena é gradual — ver [[calendario-2026-2027]] para as datas exatas.
 
 **Erro comum a evitar:** tratar "IBS/CBS" como um imposto a mais para o Simples pagar. Não é — para quem fica no Simples puro, IBS/CBS entram embutidos no cálculo do DAS, exatamente como PIS/COFINS/ICMS/ISS entram hoje. O que existe de novo é a opção de sair dessa sistemática, não uma cobrança automática adicional.
 
 **Fontes:**
-1. [[reforma-tributaria-2027]] (publicado, 2026-07-11).
-2. [[decisao-de-regime]] — Art. 517 da LC 214/2025, Resolução CGSN nº 186/2026.
-3. [Decreto nº 12.955/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12955.htm) — texto oficial conferido no Planalto em 2026-07-12.
+1. [[reforma-tributaria-2027]] (revisada em 2026-11-23).
+2. [[decisao-de-regime]].
+3. [Lei Complementar 214/2025, texto compilado](https://planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm).
 
 **Relacionados:** [[reforma-tributaria-2027]] · [[decisao-de-regime]] · [[split-payment]] · [[reducao-60-saude]]

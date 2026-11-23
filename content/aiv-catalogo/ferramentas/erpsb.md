@@ -2,11 +2,11 @@
 slug: erpsb
 tipo: ferramenta
 titulo: "ERPSb: ERP open-source para automação de NFS-e no Pix"
-resumo: "ERPSb é um ERP open-source (Next.js + Supabase) que emite NFS-e automaticamente no momento do pagamento via Pix, integrado com Focus NFe (Emissor Nacional) e Mercado Pago. Preparado para split payment 2027."
+resumo: "ERPSb é um ERP open-source (Next.js + Supabase) que emite NFS-e automaticamente no momento do pagamento via Pix, integrado com Focus NFe (Emissor Nacional) e Mercado Pago. Preparado para acompanhar a implantação do split payment."
 status: publicado
 fonte: "github.com/inematds/ERPSb"
 confianca: alta
-atualizado_em: 2026-07-11
+atualizado_em: 2026-11-23
 ---
 
 ERPSb é um ERP open-source desenvolvido pela Monica Melo Sales que automatiza a emissão de NFS-e no momento do pagamento via Pix. Construído com Next.js e Supabase, integra com Focus NFe (Emissor Nacional de Petrópolis) e Mercado Pago.
@@ -19,7 +19,7 @@ ERPSb é um ERP open-source desenvolvido pela Monica Melo Sales que automatiza a
 
 3. **Dashboard Semáforo:** Visualização em tempo real de pagamentos pendentes, notas emitidas, pendências fiscais.
 
-4. **Preparado para split payment 2027:** Arquitetura pronta para retenção automática de imposto no 2º semestre de 2027.
+4. **Preparado para o split payment:** arquitetura pronta para acompanhar a regulamentação e o cronograma de implantação do mecanismo.
 
 5. **À prova de recepcionista:** RLS por papel (owner/admin/staff), soft delete universal, botões de escape humano ("Registrar Pix manualmente", "Reenviar nota").
 

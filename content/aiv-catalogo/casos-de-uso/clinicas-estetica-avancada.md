@@ -2,19 +2,19 @@
 slug: clinicas-estetica-avancada
 tipo: caso-de-uso
 titulo: "Estética avançada e micropigmentação em Petrópolis: por que a decisão de regime é o gancho certo"
-resumo: "Clínicas de estética avançada, micropigmentação e day spas são o maior grupo de clínicas de estética em Petrópolis (24 identificadas, urgência predominante ALTA) e o perfil mais claro para o gancho de decisão de regime: estética pura, sem tese terapêutica, geralmente Simples ou MEI."
+resumo: "Clínicas de estética avançada, micropigmentação e day spas são o maior grupo de clínicas de estética em Petrópolis (24 identificadas, urgência predominante ALTA). Como a janela de opção para o primeiro semestre de 2027 já terminou, o foco passa a ser a preparação operacional e a simulação para a próxima janela, prevista para 1º a 31 de março de 2027."
 status: publicado
 fonte: "cerebro-prospeccao/wiki/nichos/estetica-avancada.md"
 confianca: alta
-atualizado_em: 2026-07-11
+atualizado_em: 2026-11-23
 ---
 
-**Para clínicas de estética avançada, micropigmentação e day spas, o tema tributário que importa não é o split payment — é a decisão de regime, com prazo em setembro de 2026.** É o maior segmento de clínicas de estética identificado em Petrópolis e o mais alinhado ao perfil "estética pura": procedimentos sem caráter terapêutico, geralmente enquadrados no Simples Nacional ou como MEI.
+**Para clínicas de estética avançada, micropigmentação e day spas, o tema tributário que importa é a decisão de regime de IBS/CBS: a janela do primeiro semestre de 2027 já terminou, e a próxima está prevista para 1º a 31/03/2027.** É o maior segmento de clínicas de estética identificado em Petrópolis e o mais alinhado ao perfil "estética pura": procedimentos sem caráter terapêutico, geralmente enquadrados no Simples Nacional ou como MEI.
 
-**Por que este perfil não sente redução de 60% nem split:**
+**Por que este perfil tende a não ter redução de 60%, e como o split payment entra:**
 
-- Sem tese terapêutica defensável (diferente de harmonização facial ou massoterapia), o enquadramento tende à alíquota cheia de IBS/CBS — não há fronteira saúde×estética a explorar aqui.
-- Sendo majoritariamente Simples/MEI, as vendas não sofrem retenção de split payment (ver [[../conceitos/split-payment]]) — o tema relevante é exclusivamente a [[../conceitos/decisao-de-regime|decisão de regime]].
+- Sem enquadramento no Anexo III da LC 214/2025 (diferente de alguns serviços de harmonização facial ou massoterapia), o serviço tende à alíquota cheia de IBS/CBS — não há fronteira saúde×estética a explorar aqui.
+- Em 2026, o split payment está apenas em testes técnicos controlados (ver [[../conceitos/split-payment]]); o tema concreto agora é a [[../conceitos/decisao-de-regime|decisão de regime]] e a preparação para a próxima janela.
 
 **O que está em jogo na decisão de regime para esse perfil:**
 

@@ -2,34 +2,34 @@
 slug: decisao-de-regime
 tipo: conceito
 titulo: "Decisão de regime 2026: ficar no Simples ou migrar para o regime regular de IBS/CBS"
-resumo: "Toda clínica do Simples Nacional precisa decidir, entre 1º e 30 de setembro de 2026, se continua recolhendo tudo pelo DAS ou passa a apurar IBS/CBS 'por fora' pelo regime regular (regime híbrido, Art. 517 da LC 214). A escolha define se a clínica gera crédito integral para clientes PJ ou fica isenta do split payment."
+resumo: "A janela de opção para o primeiro semestre de 2027 já foi encerrada. Empresas optantes pelo Simples Nacional puderam escolher, de 1º/09 a 30/10/2026, apurar IBS/CBS pelo regime regular, em vez de recolhê-los dentro do DAS. O cancelamento dessa opção pode ser feito de 03/11 a 20/12/2026. A próxima janela está prevista para 1º a 31/03/2027, com efeitos de 1º/07 a 31/12/2027. A decisão deve considerar perfil de clientes, créditos, fornecedores, fluxo de caixa e custos de conformidade; não significa sair automaticamente do Simples Nacional."
 status: publicado
-fonte: "LC 214/2025 art. 517; Resolução CGSN nº 186/2026"
+fonte: "Receita Federal (set/2026); LC 214/2025; LC 238/2026"
 confianca: alta
-atualizado_em: 2026-07-12
+atualizado_em: 2026-11-23
 ---
 
-**A decisão de regime é a escolha, obrigatória para empresas do Simples Nacional, entre continuar recolhendo tudo pelo DAS (guia única) ou passar a apurar IBS/CBS "por fora", pelo regime regular híbrido — com janela fixa de 1º a 30 de setembro de 2026.** Essa é a mudança mais concreta da Reforma Tributária 2027 para clínicas de estética, mais relevante no dia a dia do que o split payment.
+**A decisão de regime é a escolha, para empresas do Simples Nacional, entre continuar com IBS/CBS recolhidos dentro do DAS ou apurá-los pelo regime regular. A janela para o primeiro semestre de 2027 já terminou; a próxima está prevista para março de 2027.** Optar pelo regime regular de IBS/CBS não significa sair automaticamente do Simples Nacional.
 
 **As duas opções:**
 
-- **Simples puro (ficar como está):** sem split payment, sem apuração nova — mas gera pouco crédito tributário para o cliente pessoa jurídica. Quem atende empresas (parcerias, convênios PJ) arrisca perder contrato para um concorrente que gera crédito integral.
-- **Simples híbrido / regime regular (migrar):** gera crédito cheio para clientes PJ; em troca, passa a sentir o split payment (a partir do 2º semestre de 2027 — e mesmo assim a Etapa 1 é **facultativa e restrita a operações B2B**, sem cartões, conforme o Decreto nº 12.955/2026, art. 33) e a apuração por fora. Para quem vive majoritariamente de consumidor final — a maioria das clínicas de estética — raramente compensa migrar, mas a conta é caso a caso.
+- **Manter IBS/CBS no DAS (Simples "puro"):** sem apuração separada. Em contrapartida, o crédito de IBS/CBS que o cliente pessoa jurídica aproveita tende a ser menor, e quem atende empresas (parcerias, convênios PJ) pode perder contrato para concorrente que gera crédito integral.
+- **Optar pelo regime regular de IBS/CBS:** gera crédito integral para clientes PJ; em contrapartida, exige apuração própria e maior custo de conformidade, e o impacto do [[split-payment]] dependerá da regulamentação de implantação. Para quem vive majoritariamente de consumidor final — a maioria das clínicas de estética —, a vantagem costuma ser menor, mas a conta é caso a caso.
 
-**Prazos que valem para essa decisão:**
+**Prazos (revisados em 23/11/2026):**
 
-- **1º a 30 de setembro de 2026:** janela oficial de opção (Resolução CGSN nº 186), com efeitos a partir de janeiro de 2027.
-- **Até o último dia de novembro de 2026:** prazo final para cancelar a opção feita em setembro.
-- **Não vale para MEI:** o SIMEI decide separadamente, em janeiro, como sempre — a janela de setembro é só para empresas do Simples.
+- **1º/09 a 30/10/2026:** opção pelo regime regular de IBS/CBS para jan–jun/2027 (**encerrada**).
+- **03/11 a 20/12/2026:** período para cancelar a opção feita (**em curso**).
+- **1º a 31/03/2027 (prevista):** próxima janela de opção, com efeitos de 1º/07 a 31/12/2027; cancelamento dessa opção até 31/05/2027.
+- **MEI:** tem regras próprias de limite e enquadramento (ver [[teto-mei-81k]]).
 
-**Base legal (verificada — não confundir):** o **Art. 517 da LC 214/2025** é o dispositivo que permite ao optante do Simples apurar/destacar IBS/CBS "por fora" (o regime híbrido) — é a base legal correta desta decisão. Ele **não** trata de nota fiscal obrigatória do MEI (erro presente em materiais antigos); esse é outro tema, tratado em [[nfse-nacional-petropolis]].
+**Quem não optou:** continua com IBS/CBS no DAS. O período até março de 2027 serve para simular o impacto e decidir com dados na próxima janela.
 
-**Como decidir, na prática:** depende de (1) % de vendas para clientes PJ, que vão preferir fornecedores que geram crédito; (2) margem de lucro atual; (3) volume de insumos que geram crédito de entrada; (4) estratégia de crescimento da clínica. É exatamente esse cálculo que o [[../produtos/produto-1-raio-x-da-operacao|Raio-X da Operação]] entrega, clínica por clínica.
+**Como decidir, na prática:** depende de (1) % de vendas para clientes PJ, que preferem fornecedores que geram crédito; (2) margem atual; (3) volume de insumos e fornecedores que geram crédito de entrada; (4) fluxo de caixa; (5) custo de conformidade e estratégia de crescimento. É exatamente essa simulação que o [[../produtos/produto-1-raio-x-da-operacao|Raio-X da Operação]] entrega, clínica por clínica. A decisão deve ser validada com o contador.
 
 **Fontes:**
-1. `ledger.md`, Missão 4, item S7.1 (2026) — verificação do Art. 517 e da Resolução CGSN nº 186.
-2. [Decreto nº 12.955/2026, art. 33](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12955.htm) — Etapa 1 do split facultativa e restrita a B2B (texto oficial conferido em 2026-07-12; ver `../../aiv-f0/complemento-f0-20260712.md`).
-3. `ledger.md`, S1.2 (2026).
-4. `cerebro-prospeccao/wiki/aliquotas/mei-simples-nacional.md` e `cerebro-prospeccao/wiki/prazos/calendario-2026-2027.md`.
+1. [Receita Federal — Simples Nacional 2027: novos prazos](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade/)
+2. [Lei Complementar 214/2025, texto compilado](https://planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm)
+3. [Lei Complementar 238/2026](https://planalto.gov.br/ccivil_03/leis/lcp/lcp238.htm)
 
 **Relacionados:** [[reforma-tributaria-2027]] · [[split-payment]] · [[calendario-2026-2027]] · [[reducao-60-saude]] · [[../produtos/produto-1-raio-x-da-operacao]]

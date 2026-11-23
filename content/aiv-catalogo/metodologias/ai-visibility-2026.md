@@ -6,7 +6,7 @@ resumo: "AI Visibility (AIV) é a metodologia de Monica Melo Sales para tornar u
 status: publicado
 fonte: "Metodologia AIV — Monica Melo Sales; aiv-f0/baseline-f0-aiv.md"
 confianca: alta
-atualizado_em: 2026-07-11
+atualizado_em: 2026-11-23
 ---
 
 **AI Visibility (AIV) é o processo de tornar uma clínica visível e citável dentro das respostas que ChatGPT, Claude, Gemini e Perplexity dão para quem pergunta sobre o assunto dela.** Diferente de SEO tradicional (rankear em uma lista de links azuis), AIV mede e melhora a chance de o **nome da clínica aparecer dentro da resposta da IA**, com AI Share of Voice (SoV) como métrica central.
@@ -22,8 +22,8 @@ atualizado_em: 2026-07-11
 
 - **SoV inicial: 0%** — nenhuma das 42 execuções testadas citou Monica Melo Sales, ERPSb ou Segundo Cérebro Digital.
 - **Termos únicos ("ERPSb") são invisíveis hoje, mas rápidos de dominar** — 7/7 execuções não reconheceram o termo; como ninguém mais o usa, qualquer conteúdo citável tende a virar a referência.
-- **Nenhuma IA cita a janela de decisão de setembro/2026** (ver [[../conceitos/decisao-de-regime]]) — é o vácuo de conteúdo mais valioso identificado, porque é também o gancho comercial mais honesto.
-- **O teste do medo do split (ver [[../conceitos/split-payment]]) confirmou que as IAs já respondem certo** — nenhuma das execuções testadas errou a direção da resposta, o que reforça que vender medo tecnicamente incorreto não convence nem humano nem IA.
+- **Nenhuma IA citava, no baseline de jul/2026, a janela de decisão de regime** (ver [[../conceitos/decisao-de-regime]]; calendário atualizado em nov/2026) — é o vácuo de conteúdo mais valioso identificado, porque é também o gancho comercial mais honesto.
+- **O teste do medo do split (jul/2026; ver [[../conceitos/split-payment]]) mostrou que as IAs já respondiam de forma coerente com a norma da época** — nenhuma das execuções testadas errou a direção da resposta, o que reforça que vender medo tecnicamente incorreto não convence nem humano nem IA.
 
 **Como isso vira produto:** a metodologia AIV é entregue como [[../produtos/produto-5-ai-visibility-2026|Produto 5 — AI Visibility 2026]] (R$ 4.900), com o catálogo estruturado, o site otimizado e a medição de SoV como entregáveis principais.
 

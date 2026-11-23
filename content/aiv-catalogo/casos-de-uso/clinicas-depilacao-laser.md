@@ -2,14 +2,14 @@
 slug: clinicas-depilacao-laser
 tipo: caso-de-uso
 titulo: "Depilação e laser: ticket recorrente, decisão de regime e a exceção das franquias"
-resumo: "Clínicas de depilação e laser são estética pura, sem fronteira com saúde a explorar — o gancho é a decisão de regime, com o adicional de que o ticket recorrente e alto volume parcelado tornam a conversa sobre margem especialmente concreta. Unidades de franquia ficam fora da prospecção direta."
+resumo: "Clínicas de depilação e laser são estética pura, sem fronteira com saúde a explorar — o gancho comercial atual é a preparação operacional para 2027 e a simulação da próxima janela de opção pelo regime regular de IBS/CBS, prevista para março de 2027. Unidades de franquia ficam fora da prospecção direta."
 status: publicado
 fonte: "cerebro-prospeccao/wiki/nichos/depilacao.md"
 confianca: alta
-atualizado_em: 2026-07-11
+atualizado_em: 2026-11-23
 ---
 
-**Depilação e laser são estética pura — sem tese terapêutica, o gancho tributário é integralmente a decisão de regime, com prazo oficial em setembro de 2026.**
+**Depilação e laser são estética pura — sem tese terapêutica, o gancho tributário é a decisão de regime de IBS/CBS: a janela do primeiro semestre de 2027 já terminou e a próxima está prevista para 1º a 31/03/2027.**
 
 **O que torna esse nicho específico:**
 

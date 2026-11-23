@@ -2,29 +2,37 @@
 slug: reducao-60-saude
 tipo: conceito
 titulo: "Redução de 60% para serviços de saúde: o enquadramento que define a margem em harmonização e híbridas"
-resumo: "Serviços de saúde têm redução de 60% na alíquota de IBS/CBS na Reforma Tributária. Procedimentos estéticos sem caráter terapêutico tendem à alíquota cheia. Para clínicas na fronteira saúde×estética (harmonização, massoterapia, dermatologia), o enquadramento correto do serviço define diretamente a margem."
+resumo: "A redução de 60% das alíquotas de IBS/CBS aplica-se aos serviços de saúde relacionados no Anexo III da LC 214/2025, conforme o art. 130. Não basta o estabelecimento ser clínica ou o procedimento ser apresentado como terapêutico: é necessário verificar a classificação e as condições legais de cada serviço. Procedimentos estéticos fora da lista não recebem automaticamente a redução."
 status: publicado
-fonte: "LC 214/2025; tarefas/briefing-batch1-prospeccao.md §4"
+fonte: "LC 214/2025, art. 130 e Anexo III"
 confianca: alta
-atualizado_em: 2026-07-11
+atualizado_em: 2026-11-23
 ---
 
-**A Reforma Tributária dá redução de 60% na alíquota de IBS/CBS para serviços de saúde; procedimentos estéticos sem caráter terapêutico tendem à alíquota cheia — e é o enquadramento do serviço, não o nome da clínica, que decide qual regra vale.** Esse é o gancho mais honesto para negócios que vivem na fronteira entre saúde e estética.
+**A redução de 60% das alíquotas de IBS/CBS aplica-se aos serviços de saúde relacionados no Anexo III da LC 214/2025, conforme o art. 130 — é o serviço efetivamente prestado, e não o nome da clínica, que decide qual regra vale.** Esse é o ponto de atenção para negócios que vivem na fronteira entre saúde e estética.
+
+**O que a regra exige:**
+
+- O serviço precisa constar da relação do **Anexo III** da LC 214/2025 e atender às condições legais aplicáveis.
+- Não basta o estabelecimento ser clínica, nem o procedimento ser apresentado como terapêutico ou reparador.
+- Procedimentos estéticos fora da lista **não recebem automaticamente** a redução e não devem ser presumidos como serviços de saúde beneficiados.
 
 **Quem é mais afetado por essa fronteira:**
 
-- **Harmonização facial:** procedimento com caráter terapêutico/reparador tende a entrar na redução de 60%; puramente estético tende à alíquota cheia. É a fronteira mais literal do enquadramento.
-- **Massoterapia e terapias corporais:** drenagem linfática, quiropraxia e massoterapia esportiva têm tese terapêutica defensável quando bem documentadas; procedimentos de cunho estético puro, não.
-- **Dermatologia:** o consultório médico mantém a redução de 60% na parte clínica, mas a receita de procedimentos estéticos vendidos junto (peeling estético, por exemplo) tende à alíquota cheia — **segregar as duas receitas** no enquadramento é o que evita pagar a mais.
-- **Estética pura (depilação, micropigmentação, estética facial/corporal sem tese terapêutica):** não tem fronteira para explorar — vai para a alíquota cheia; o tema relevante para esse grupo é a [[decisao-de-regime|decisão de regime]], não esta redução.
+- **Harmonização facial:** exige análise procedimento a procedimento; caráter terapêutico ou reparador, isoladamente, não garante o benefício.
+- **Massoterapia e terapias corporais:** drenagem linfática, quiropraxia e massoterapia esportiva não recebem automaticamente a redução; registro profissional, CNAE ou descrição comercial, isoladamente, não garantem o enquadramento.
+- **Dermatologia:** a segregação entre serviços de saúde listados e procedimentos estéticos vendidos junto evita presumir benefício onde ele não existe.
+- **Cirurgia plástica e centros híbridos de fisioterapia/estética:** a elegibilidade depende do serviço listado e da documentação de cada procedimento.
+- **Estética pura (depilação, micropigmentação, estética facial/corporal):** sem enquadramento no Anexo III, o tema relevante é a [[decisao-de-regime|decisão de regime]], não esta redução.
 
-**Por que isso mexe na margem:** o enquadramento (CNAE × item da LC 116 × código de tributação nacional × serviço real prestado) precisa refletir o que a clínica de fato faz — não apenas o nome fantasia ou a categoria genérica do CNPJ. Um mesmo estabelecimento pode ter serviços em faixas de alíquota diferentes, e a validação disso é trabalho conjunto com o contador.
+**Para advocacia:** serviços de advocacia têm redução de 30% conforme o art. 127 da LC 214/2025, observados os requisitos legais aplicáveis.
 
-**O que isso não é:** não é uma isenção automática por "ser da área da saúde" — é uma redução condicionada ao caráter terapêutico do procedimento específico, avaliado item a item.
+**Por que isso mexe na margem:** o enquadramento (CNAE × item da LC 116 × código de tributação nacional × serviço real prestado) precisa refletir o que a clínica de fato faz. Um mesmo estabelecimento pode ter serviços com tratamentos tributários diferentes, e a validação disso é trabalho conjunto com o contador.
+
+**O que isso não é:** não é uma isenção automática por "ser da área da saúde" — é uma redução condicionada ao enquadramento do serviço específico, avaliado item a item.
 
 **Fontes:**
-1. `tarefas/briefing-batch1-prospeccao.md`, §4, fato 4 (2026).
-2. `cerebro-prospeccao/wiki/nichos/harmonizacao-facial.md`, `massoterapia.md` e `dermatologia.md` (2026).
-3. `ledger.md`, S5.4 — enquadramento por item LC 116 + código de tributação nacional (2026).
+1. [Lei Complementar 214/2025, texto compilado](https://planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm) — art. 130 e Anexo III.
+2. [Receita Federal — Simples Nacional 2027: novos prazos](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade/).
 
 **Relacionados:** [[decisao-de-regime]] · [[reforma-tributaria-2027]] · [[../casos-de-uso/clinicas-harmonizacao-facial]] · [[../casos-de-uso/clinicas-massoterapia]] · [[../casos-de-uso/clinicas-dermatologia]]

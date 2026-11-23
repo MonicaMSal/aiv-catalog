@@ -6,7 +6,7 @@ resumo: "Fora do universo de clínicas de estética, a Blindagem Operacional 202
 status: publicado
 fonte: "wargames/blindagem-advocacia.md"
 confianca: alta
-atualizado_em: 2026-07-17
+atualizado_em: 2026-11-23
 ---
 
 **Um escritório de advocacia de 8 a 20 pessoas é o caso de uso da Blindagem Operacional 2027 fora do universo de clínicas de estética — o produto é o mesmo (implementação do [[../metodologias/segundo-cerebro-digital|Segundo Cérebro Digital]] via [[../metodologias/os-coach|OS Coach]]), mas o perfil de risco e o padrão de venda mudam.**
@@ -21,7 +21,7 @@ atualizado_em: 2026-07-17
 
 **Como o vocabulário de venda muda:** nunca vender "IA" para o sócio; vender blindagem de risco — prazos cobertos, sigilo protegido, horas recuperadas. A palavra "IA" só entra na conversa quando ele perguntar como funciona por baixo.
 
-**Diferença comercial em relação às clínicas de estética:** o gancho não é decisão de regime tributário nem enquadramento de alíquota — é puramente operacional (governança + confiabilidade + conformidade). Este caso de uso não compete pelo mesmo argumento fiscal do funil de clínicas; é uma frente comercial paralela.
+**Diferença comercial em relação às clínicas de estética:** o gancho é puramente operacional (governança + confiabilidade + conformidade), não o enquadramento de alíquota. Para referência tributária, serviços de advocacia têm redução de 30% conforme o art. 127 da LC 214/2025, observados os requisitos legais aplicáveis; o benefício não deve ser presumido sem conferir o serviço e os requisitos. Este caso de uso é uma frente comercial paralela ao funil de clínicas.
 
 **Fontes:**
 1. `wargames/blindagem-advocacia.md` (2026-07-06) — cronograma semana a semana, pontos de falha e contramedidas do wargame de advocacia.

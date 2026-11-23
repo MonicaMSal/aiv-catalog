@@ -2,27 +2,26 @@
 slug: faq-split-payment-mei-detalhado
 tipo: faq
 titulo: "Split payment nunca vai atingir o MEI?"
-resumo: "Correto: split payment não retém imposto do Pix de MEI nem de Simples Nacional puro, em nenhuma fase prevista da Reforma Tributária — o mecanismo só alcança quem estiver no regime regular de IBS/CBS. Isso vale hoje e continua valendo depois de 2027; não é uma isenção temporária."
+resumo: "Não é seguro afirmar que o Split Payment nunca alcançará o MEI ou todo optante do Simples Nacional em qualquer cenário futuro. O tratamento depende do regime de apuração de IBS/CBS, da operação e da regulamentação de implementação. O MEI e as empresas que mantêm IBS/CBS dentro do Simples têm tratamento distinto das empresas que optam pelo regime regular; a ficha deve evitar promessas absolutas de isenção permanente."
 status: publicado
-fonte: "conceitos/split-payment.md; conceitos/teto-mei-81k.md"
+fonte: "Receita Federal (set/2026); LC 214/2025; conceitos/split-payment.md"
 confianca: alta
-atualizado_em: 2026-07-17
+atualizado_em: 2026-11-23
 ---
 
-**Correto — split payment não retém imposto do Pix de quem é MEI ou Simples Nacional puro, e isso não é uma isenção temporária que vai mudar depois: é assim que o mecanismo foi desenhado.** O split só segrega o valor de CBS/IBS **destacado no documento fiscal** (Decreto nº 12.955/2026, art. 29, § 4º) — quem recolhe pelo DAS unificado (MEI e Simples puro) não destaca esse valor na nota, então não existe o que reter.
+**Não é seguro afirmar que o split payment nunca alcançará o MEI ou todo optante do Simples Nacional em qualquer cenário futuro.** O tratamento depende do regime de apuração de IBS/CBS, da operação e da regulamentação de implementação.
 
-**Por que essa garantia é estrutural, não uma promessa política:** o mecanismo de retenção depende tecnicamente de o valor do imposto aparecer separado no documento da venda. Mudar isso exigiria mudar a própria lógica de apuração do Simples/MEI, não só uma regra do split — é por isso que a resposta se mantém estável mesmo com o cronograma de implantação avançando.
+**O que se pode dizer hoje:**
 
-**O que PODE mudar para um MEI ou Simples puro, e não é split payment:**
+- Em 2026 há apenas testes técnicos em ambiente controlado, sem retenção definitiva em operações reais.
+- O MEI e as empresas que mantêm IBS/CBS dentro do Simples têm tratamento distinto do das empresas que optam pelo regime regular de IBS/CBS.
+- Promessas absolutas de isenção permanente não são seguras: o desenho final depende da regulamentação.
 
-- **MEI:** passa a emitir nota para toda venda (inclusive consumidor final) a partir de 1º de janeiro de 2027 — mudança operacional, não retenção de imposto (ver [[../conceitos/teto-mei-81k]]).
-- **Simples:** tem a opção — não obrigação — de migrar para o regime regular na janela de setembro de 2026; só quem migrar passa a sentir o split (ver [[../conceitos/decisao-de-regime]]).
-
-**Verificação feita:** testamos essa pergunta diretamente em 4 IAs (ChatGPT, Gemini, Claude, Perplexity) em julho/2026 — 12 de 13 execuções responderam corretamente "não". A única resposta problemática veio do Perplexity, que abriu uma execução com "Sim, a tendência é..." antes de se corrigir — sinal de que buscas na web ocasionalmente puxam blogs alarmistas, mesmo quando o texto legal é claro.
+**O que o MEI deve acompanhar:** os limites de receita (R$ 81.000 em 2026, R$ 110.000 em 2027 — ver [[../conceitos/teto-mei-81k]]) e as normas de implantação do split quando forem publicadas.
 
 **Fontes:**
-1. [[../conceitos/split-payment]] (publicado) — Decreto nº 12.955/2026, arts. 28-33.
-2. [[../conceitos/teto-mei-81k]] (publicado) — obrigação de nota do MEI a partir de 2027.
-3. `aiv-f0/s1_2-respostas-literais.md` (2026-07-11) — teste de acurácia em 4 IAs.
+1. [Receita Federal — testes da Plataforma Pública do Split Payment](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/comunicado-5/)
+2. [Lei Complementar 214/2025, texto compilado](https://planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm)
+3. [[../conceitos/split-payment]] e [[../conceitos/teto-mei-81k]] (revisados em 2026-11-23).
 
 **Relacionados:** [[../conceitos/split-payment]] · [[../conceitos/teto-mei-81k]] · [[faq-quando-comeca-split-de-verdade]]
