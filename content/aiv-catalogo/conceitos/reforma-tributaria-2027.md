@@ -13,7 +13,7 @@ A Reforma Tributária introduz dois novos tributos sobre o consumo (IBS e CBS), 
 
 **O que muda na prática:**
 
-1. **Decisão de regime:** empresas do Simples Nacional podem manter IBS/CBS no DAS ou optar pelo regime regular. A janela para o primeiro semestre de 2027 foi de 1º/09 a 30/10/2026 e **já terminou**; o cancelamento pode ser pedido de 03/11 a 20/12/2026. A próxima janela está prevista para **1º a 31/03/2027**, com efeitos de julho a dezembro de 2027.
+1. **Decisão de regime:** empresas do Simples Nacional podem manter IBS/CBS no DAS ou optar pelo regime regular (art. 517 da LC 214/2025). A opção é semestral: cada janela vale para um semestre. A janela para o primeiro semestre de 2027 foi de 1º/09 a 30/10/2026 e **já terminou**; o cancelamento pode ser pedido de 03/11 a 20/12/2026. A próxima janela está prevista para **1º a 31/03/2027**, com efeitos de julho a dezembro de 2027.
 
 2. **Split payment:** em 2026, a Receita Federal iniciou testes técnicos em ambiente controlado (desde 15/10/2026), sem impacto em operações reais. A implantação operacional será gradual e seguirá a regulamentação; o tratamento depende do regime tributário e das regras aplicáveis à operação (ver [[split-payment]]).
 

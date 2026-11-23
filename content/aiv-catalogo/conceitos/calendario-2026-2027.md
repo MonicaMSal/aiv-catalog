@@ -9,7 +9,7 @@ confianca: alta
 atualizado_em: 2026-11-23
 ---
 
-**Os prazos de opção para 2027 já foram encerrados; o que está aberto agora é o cancelamento (até 20/12/2026), e a próxima janela para o regime regular de IBS/CBS está prevista para março de 2027.** A transição da Reforma Tributária é gradual e já começou em 2026.
+**A opção pelo regime regular de IBS/CBS é semestral (art. 517 da LC 214/2025): a janela de 2026 vale para jan–jun/2027, e a de março/2027, para jul–dez/2027.** **Os prazos de opção para 2027 já foram encerrados; o que está aberto agora é o cancelamento (até 20/12/2026), e a próxima janela para o regime regular de IBS/CBS está prevista para março de 2027.** A transição da Reforma Tributária é gradual e já começou em 2026.
 
 **Linha do tempo (revisada em 23/11/2026):**
 
